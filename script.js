@@ -1,4 +1,4 @@
-const message = `ASSALAMUALAIKUM WARAHMATULLAHI WABARAKATUH! kak, semangat terus ya, meskipun pastinya cape banget ngejalaninnya, U DO A GREAT JOB KAK!!!! PROUDOFU, wink. `;
+const message = `ASSALAMUALAIKUM WARAHMATULLAHI WABARAKATUH! kak, semangat terus ya menjalani masa smk nya, meskipun pastinya cape banget ngejalaninnya,tapi sejauh ini U DO A GREAT JOB KAK!!!! PROUDOFU, wink. aku bakal jadi supporter kakak Numero uno!! cape itu wajar kak! gapapa lah ngeluh dikit, normal booozzzZ, oh iya hari ini, how was ur day kak? Alhamdulillah.. tepuk pramuka, prok prok prok, prok prok prok, prok prok prok prok prok prok prok, segitu dulu deh kak,`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
